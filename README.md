@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
-  <picture><img src="https://media.tenor.com/891TMnZZnHIAAAAM/godsavethequeen-invoker.gif" width = 300px></picture>
+  <picture aling="right"><img src="https://media.tenor.com/891TMnZZnHIAAAAM/godsavethequeen-invoker.gif" width = 80px></picture>
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Antonio</h1></summary>
   </ul>
