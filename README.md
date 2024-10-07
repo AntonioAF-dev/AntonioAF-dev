@@ -8,7 +8,7 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm Antonio</h1></summary>
   </ul>
 </div>
-
+## <picture><img src="https://media.tenor.com/891TMnZZnHIAAAAM/godsavethequeen-invoker.gif" width = 300px></picture>
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
@@ -23,10 +23,6 @@
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
-
-
-## <picture><img src="https://media.tenor.com/891TMnZZnHIAAAAM/godsavethequeen-invoker.gif" width = 30px></picture>
-
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
