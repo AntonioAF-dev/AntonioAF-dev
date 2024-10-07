@@ -8,7 +8,6 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm Antonio</h1></summary>
   </ul>
 </div>
-<picture aling="right"><img src="https://media.tenor.com/891TMnZZnHIAAAAM/godsavethequeen-invoker.gif" width = 80px></picture>
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
